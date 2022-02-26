@@ -1,0 +1,40 @@
+h4 {
+    font-style:italic;
+    font-weight:bold;
+    font-size:0.8em;
+    font-color:#ffffff;
+    font-family:'Monaco';
+  }
+  h3 {
+    font-style:italic;
+    font-weight:bold;
+    font-size:2em;
+    font-color:#22A2FB;
+    font-family:sans-serif;
+  }
+  #container {
+      background: rgb(193, 223, 244 );
+      width: 75em;
+      height: 50vh;
+      min-width: 75em;
+      max-width: 100em;
+  }
+
+  header {
+      margin-top: 5em;
+      border-bottom: 1px solid rgb(0, 0, 0);
+  }
+
+  main {
+      min-height: 80vh;
+  }
+
+  main > .row {
+      height: 80vh;
+  }
+  main> .container2{
+      width: 75em;
+      height: 70vh;
+      min-width: 75em;
+      max-width: 100em;
+  }
